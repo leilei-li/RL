@@ -392,6 +392,6 @@ def monte_carlo_exploring_starts():
     plt.show()
 
 
-onPolicy()
+# onPolicy()
 # monte_carlo_exploring_starts()
-# offPolicy()
+offPolicy()
